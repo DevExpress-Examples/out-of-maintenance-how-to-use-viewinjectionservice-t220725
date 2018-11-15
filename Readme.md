@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [App.xaml.cs](./CS/DXSample/App.xaml.cs)
+* [Common.cs](./CS/DXSample/Common/Common.cs) (VB: [Common.vb](./VB/DXSample/Common/Common.vb))
+* [CustomersView.xaml](./CS/DXSample/View/CustomersView.xaml) (VB: [CustomersView.xaml](./VB/DXSample/View/CustomersView.xaml))
+* [MainView.xaml](./CS/DXSample/View/MainView.xaml) (VB: [MainView.xaml](./VB/DXSample/View/MainView.xaml))
+* [CustomersViewModel.cs](./CS/DXSample/ViewModel/CustomersViewModel.cs) (VB: [CustomersViewModel.vb](./VB/DXSample/ViewModel/CustomersViewModel.vb))
+<!-- default file list end -->
 # How to: Use ViewInjectionService
 
 
