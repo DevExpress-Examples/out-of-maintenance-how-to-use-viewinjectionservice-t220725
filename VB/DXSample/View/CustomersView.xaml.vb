@@ -1,11 +1,12 @@
-﻿Imports System.Windows.Controls
+Imports System.Windows.Controls
 
 Namespace DXSample.View
-    Partial Public Class CustomersView
+
+    Public Partial Class CustomersView
         Inherits UserControl
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace

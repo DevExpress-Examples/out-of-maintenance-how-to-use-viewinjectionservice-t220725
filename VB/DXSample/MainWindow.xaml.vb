@@ -1,9 +1,10 @@
-﻿Namespace DXSample
-    Partial Public Class MainWindow
+Namespace DXSample
+
+    Public Partial Class MainWindow
         Inherits DevExpress.Xpf.Core.DXWindow
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace
